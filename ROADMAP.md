@@ -22,7 +22,7 @@
 | Agent on AWS TrueForge (OpenAI + Daytona) | ✅ Wiring verified end to end: Code Mode bridge, shadow tools, approval pause, deny path (stand-in engine) |
 | Full agent run on the real fleet | ⏳ Next |
 | Demo video, final README polish | ⏳ |
-| Repo | ✅ Public: https://github.com/harshaankad/Inference-Reliability-Engineer |
+| Repo | ✅ Public: https://github.com/isHeSatoshi/Inference-Reliability-Engineer |
 
 ---
 

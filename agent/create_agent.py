@@ -26,7 +26,7 @@ MCP_NAME = "inference-ops"
 GATED = ["apply_production_config", "rollback_production"]
 
 
-SKILLS_REPO = os.environ.get("SKILLS_REPO", "https://github.com/harshaankad/Inference-Reliability-Engineer")
+SKILLS_REPO = os.environ.get("SKILLS_REPO", "https://github.com/isHeSatoshi/Inference-Reliability-Engineer")
 SKILLS_REF = os.environ.get("SKILLS_REF", "main")
 
 
